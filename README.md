@@ -9,8 +9,6 @@ Most organisations today sit on top of an impressive pile of tools: analytics pl
 
 That question cuts through the gloss. It exposes the gap between having data and having a **traceable decision process**. This is the space where **Slide +Fin Lidex** positions itself: not as another pretty dashboard, but as a working environment where data streams, rules and actions share one coherent backbone. Many teams quietly **[visit the official Slide +Fin Lidex website](https://slidefinlidex.my/?utm_term=annghmyu214)** first, just to see if the underlying philosophy matches the way they *wish* their decisions worked, before they touch any production system.
 
-![Colleagues collaborating around a laptop and reports](https://png.pngtree.com/thumb_back/fw800/background/20251105/pngtree-two-colleagues-collaborating-on-a-business-report-using-laptop-in-modern-image_20250553.webp)
-
 ## What Slide +Fin Lidex aims to be (and what it deliberately avoids)
 On the surface, **Slide +Fin Lidex** looks like a blend of analytics, workflow and automation. Underneath, it is really built around a small set of clear commitments: it should make obvious **which signals matter** for each role; it should describe **what a disciplined response looks like** when those signals appear; and it should preserve a **replayable record** of what was actually done.
 
